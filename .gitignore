@@ -1,0 +1,7 @@
+
+*/git
+*/node_modules
+*/__pycache__
+*/automatas/__pycache__
+*/routes/__pycache__
+venv
